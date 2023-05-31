@@ -1,10 +1,4 @@
-- 👋 Hi, I’m: @ScavaMS
-- 👀 I’m interested in: games
-- 🌱 I’m currently learning: HTML, CSS, JavaScript
-- 💞️ I’m looking to collaborate on: idk
-- 📫 How to reach me: here
-
-<!---
-ScavaMS/ScavaMS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hola, soy @ScavaMS (me obligaron a presentarme)
+- 👀 Me interesan los juegos y programación
+- 🌱 Ahora estoy aprendiendo HTML, CSS, JS, y Git
+- 💞️ ¿Por qué hay corazones?
