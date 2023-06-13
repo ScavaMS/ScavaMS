@@ -1,4 +1,3 @@
-- 👋 Hola, soy @ScavaMS (me obligaron a presentarme)
-- 👀 Me interesan los juegos y programación
-- 🌱 Ahora estoy aprendiendo HTML, CSS, JS, y Git
-- 💞️ ¿Por qué hay corazones?
+<h1>ScavaMS</h1>
+
+<p align=center>Hello</p>
